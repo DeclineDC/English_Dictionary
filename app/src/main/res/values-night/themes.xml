@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="launchScreenTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/launch_image_dark</item>
+        <item name="android:statusBarColor">@color/semi_transparent</item>
+    </style>
+</resources>
